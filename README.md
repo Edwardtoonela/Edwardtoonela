@@ -1,6 +1,19 @@
-### Hi there 👋
+<!--Edward Toonela -->
+
+Fullstack web developer, recently graduated from Lewagon Rio de Janeiro batch #822
+
+Skills:
+Ruby, Rails, JS, React, HTML5, CSS, Sass, Postresql, Bootsstrap, Heroku, Git, Figma, Adobe Suite
+
+🌱 I’m currently learning:
+React
 
 <!--
+Reach me out:
+Linkedin, Facebook, Instagram, gmail, whatsapp
+
+----
+
 **Edwardtoonela/Edwardtoonela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
