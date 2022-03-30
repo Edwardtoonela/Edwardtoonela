@@ -2,11 +2,13 @@
 
 Fullstack web developer, recently graduated from Lewagon Rio de Janeiro batch #822
 
-Skills:
+📚 Skills:
 Ruby, Rails, JS, React, HTML5, CSS, Sass, Postresql, Bootsstrap, Heroku, Git, Figma, Adobe Suite
 
 🌱 I’m currently learning:
 React
+
+📫  Reach me out, I'm free for hire!
 
 <!--
 Reach me out:
