@@ -56,8 +56,6 @@
 <a href="https://www.figma.com/" target="_blank" rel=noopener>
 		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 	</a>
-	<a href="https://boxy-svg.com/" target="_blank" rel=noopener>
-		<img src="https://boxy-svg.com/images/boxy-svg.svg" alt="boxysvg" width="40" height="40"/>
 	</a>
 </p>
 
@@ -67,20 +65,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Edwardtoonela&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edwardtoonela&theme=blueberry_duo"/>
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwardtoonela&layout=compact&theme=github_dark"/>|
-
-
-
-
-
-
-
-
-
-
-
-Message Bernard van der Wal
-
-
 
 
 
