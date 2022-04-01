@@ -1,31 +1,87 @@
-<!--Edward Toonela -->
+<h1 align="center">Hello there, my name is Edward 💻</h1>
+<h3 align="center">A junior Fullstack Developer 💻</h3>
 
-Fullstack web developer, recently graduated from Lewagon Rio de Janeiro batch #822
+- Feel free to send me an email! **bernardvanderwal@gmail.com**
 
-📚 Skills:
-Ruby, Rails, JS, React, HTML5, CSS, Sass, Postresql, Bootsstrap, Heroku, Git, Figma, Adobe Suite
+- I'm currently learning **React + and Redux**
 
-🌱 I’m currently learning:
-React
+<h3 align="left">Connect with me:</h3>
 
-📫  Reach me out, I'm free for hire!
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/edward-toonela/)
 
-<!--
-Reach me out:
-Linkedin, Facebook, Instagram, gmail, whatsapp
+<h3 align="left">Programming Languages:</h3>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+	</a>
+	<a href="https://www.ruby-lang.org/en/documentation/" target="_blank" rel=noopener>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+</p>
 
-----
+<h3 align="left">Front-end:</h3>
+<p align="left">
+	<a href="https://www.w3schools.com/html/" target="_blank" rel=noopener>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+	</a>
+  
+<a href="https://www.w3schools.com/css/" target="_blank" rel=noopener>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+	</a>
+	
+  <a href="https://getbootstrap.com" target="_blank" rel=noopener>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+	</a>
+</p>
 
-**Edwardtoonela/Edwardtoonela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Back-end and databases</h3>
+<p align="left">
 
-Here are some ideas to get you started:
+  <a href="https://rubyonrails.org/" target="_blank" rel=noopener>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="ruby_on_rails" width="40" height="40"/>
+	</a>
+  
+<a href="https://www.postgresql.org/" target="_blank" rel=noopener>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="nuxt" width="40" height="40"/>
+</a>
+	
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">DevOps and Cloud:</h3>
+<p align="left">
+	<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="left">
+<a href="https://www.figma.com/" target="_blank" rel=noopener>
+		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+	</a>
+	<a href="https://boxy-svg.com/" target="_blank" rel=noopener>
+		<img src="https://boxy-svg.com/images/boxy-svg.svg" alt="boxysvg" width="40" height="40"/>
+	</a>
+</p>
+
+<br><br>
+## ⚙️ &nbsp; Git Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=Edwardtoonela&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edwardtoonela&theme=blueberry_duo"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwardtoonela&layout=compact&theme=github_dark"/>|
+
+
+
+
+
+
+
+
+
+
+
+Message Bernard van der Wal
+
+
+
+
+
+
