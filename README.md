@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, my name is Edward 💻</h1>
+<h1 align="center">Hello there, my name is Edward!</h1>
 <h3 align="center">A junior Fullstack Developer 💻</h3>
 
 - Feel free to send me an email! **toonelaedward@gmail.com**
