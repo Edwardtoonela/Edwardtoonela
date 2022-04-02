@@ -3,7 +3,7 @@
 
 - Feel free to send me an email! **toonelaedward@gmail.com**
 
-- I'm currently learning **React + and Redux**
+- I'm currently learning **React and Redux**
 
 <h3 align="left">Connect with me:</h3>
 
