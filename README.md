@@ -12,7 +12,7 @@
 
 <h3 align="left">Backend:</h3>
 <p align="left">
-	Ruby on Rails, PHP, Laravel, Node.js, Next.js
+	Ruby on Rails, Laravel, Node.js, Next.js
 </p>
 
 <h3 align="left">Others, but not to be left out:</h3>
