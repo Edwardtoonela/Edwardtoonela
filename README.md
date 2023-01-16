@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Edward and welcome to the dark side!</h1>
 <h5 align="left">Get it? Github is always in dark mode</h4>
 <p align="left">
-	Ok, nvm, moving on...
+	Ok, moving on...
 </p>
-
 <h2 align="left"Some languages and frameworks I have come across, some more dear than others.</h3>
 
 <h3 align="left">Frontend:</h3>
@@ -13,7 +12,12 @@
 
 <h3 align="left">Backend:</h3>
 <p align="left">
-	Ruby, PHP, Laravel, Node.js, Next.js
+	Ruby on Rails, PHP, Laravel, Node.js, Next.js
+</p>
+
+<h3 align="left">Others, but not to be left out:</h3>
+<p align="left">
+	Bootstrap, Heroku, SQL and a good bunch of No-code tools (Figma, Wix, Wordpress and the list goes on)
 </p>
 
 <br><br>
