@@ -1,5 +1,8 @@
-<h1 align="center">Hello there, my name is Edward!</h1>
-<h3 align="center">A junior Fullstack Developer 💻</h3>
+<h1 align="center">Welcome to the dark side</h1>
+<h4 align="left">Get it? Github is always in dark mode</h4>
+<p align="left">
+	Ok, moving on...
+</p>
 
 - Feel free to send me an email! **toonelaedward@gmail.com**
 
